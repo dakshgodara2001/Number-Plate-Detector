@@ -10,6 +10,6 @@ NumberPlateDector is a Computer Vision based web application. This web applicati
 
 <p>
   <img src="https://github.com/dakshgodara2001/NumberPlateDetector/blob/main/Screen%20Shot%201.png">
-  <img src="https://github.com/dakshgodara2001/NumberPlateDetector/blob/main/Screen%20Shot%202.png">
-  <img src="https://github.com/dakshgodara2001/NumberPlateDetector/blob/main/Screen%20Shot%203.png">
+  <img src="https://github.com/dakshgodara2001/NumberPlateDetector/blob/main/Screen%20Shot%202.png" width="200">
+  <img src="https://github.com/dakshgodara2001/NumberPlateDetector/blob/main/Screen%20Shot%203.png" width="200">
 </p>
