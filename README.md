@@ -6,3 +6,10 @@ NumberPlateDector is a Computer Vision based web application. This web applicati
 ![Architecture](https://user-images.githubusercontent.com/52131905/190629849-4b0c4299-dd55-425f-922c-44c8b8a03a5c.png)
 
 
+## Flask Web App
+
+<p>
+  <img href="">
+  <img href="">
+  <img href="">
+</p>
