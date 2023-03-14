@@ -13,7 +13,9 @@ To use this app, choose image from your device and click on submit button.
 <p>
   <img src="https://github.com/dakshgodara2001/NumberPlateDetector/blob/main/Screen%20Shot%201.png">
 </p>
+
 ### Examples
+
 <p>
   <img src="https://github.com/dakshgodara2001/NumberPlateDetector/blob/main/Screen%20Shot%202.png" width=501>
   <img src="https://github.com/dakshgodara2001/NumberPlateDetector/blob/main/Screen%20Shot%203.png" width=501>
