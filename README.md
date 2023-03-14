@@ -1,4 +1,4 @@
-# NumberPlateDetector
+# Number Plate Detector
 
 Image Processing and Object Detection is one of the areas of Data Science and has a wide variety of applications in the industries in the current world.
 NumberPlateDector is a Computer Vision based web application. This web application is developed using python language.
