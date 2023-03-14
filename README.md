@@ -9,7 +9,7 @@ NumberPlateDector is a Computer Vision based web application. This web applicati
 ## Flask Web App
 
 <p>
-  <img href="https://github.com/dakshgodara2001/NumberPlateDetector/blob/main/Screen%20Shot%201.png">
-  <img href="https://github.com/dakshgodara2001/NumberPlateDetector/blob/main/Screen%20Shot%202.png">
-  <img href="https://github.com/dakshgodara2001/NumberPlateDetector/blob/main/Screen%20Shot%203.png">
+  <img src="https://github.com/dakshgodara2001/NumberPlateDetector/blob/main/Screen%20Shot%201.png">
+  <img src="https://github.com/dakshgodara2001/NumberPlateDetector/blob/main/Screen%20Shot%202.png">
+  <img src="https://github.com/dakshgodara2001/NumberPlateDetector/blob/main/Screen%20Shot%203.png">
 </p>
